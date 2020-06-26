@@ -1,5 +1,16 @@
 # AIMA-Pac-Man
 
+The *Pac-Man* project was developed for **UC Berkeley's** ***"Introductory Artificial Intelligence"*** course, ***[CS 188](http://ai.berkeley.edu./project_overview.html)***. They apply an array of AI techniques to playing Pac-Man. 
+
+This particular implementation of the aforementioned project was developed for the class of ***"Artificial Intelligence"***, in the Informatics Department, and was awarded with the maximum possible score by the auto-grader script *(50/50)*.
+
+The whole project was implemented with *python2*.
+
+### Table of Contents
+
+[Part 1: Search](#search)
+
+[Part 2: Multi-Agent Search](#multiagent)
 
 
 <a name="search"/>
@@ -16,7 +27,7 @@ You can also check the full list of available commands in the [commands.txt](./s
 - [search.py](./search/search.py) : Where all the search algorithms reside.
 - [searchAgents.py](./search/searchAgents.py) : Where all the search-based agents reside.
 
-> Auto-grader results:
+> Auto-grader evaluation:
 
 ```
 Provisional grades
@@ -50,7 +61,7 @@ A makefile is provided. You can use the command ```$ make ``` for auto-grading a
 
 - [multiAgents.py](./multiagent/multiAgents.py) : Where all the multi-agent search agents reside.
 
-> Auto-grader results:
+> Auto-grader evaluation:
 ```
 Provisional grades
 ==================

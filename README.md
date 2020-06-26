@@ -33,3 +33,32 @@ Question q8: 3/3
 Total: 26/25
 ```
 
+
+<a name="multiagent"/>
+
+## [Part 2: Multi-Agent Search](http://ai.berkeley.edu./multiagent.html)
+
+In this part, agents for the classic version of *Pac-Man*, including ghosts, were designed.     
+
+Along the way, both *minimax* and *expectimax* search were implemented. 
+
+Efficient evaluation functions were also developed.
+
+A makefile is provided. You can use the command ```$ make ``` for auto-grading and ```$ make clean``` to delete all generated *.pyc* files.
+
+**Edited files:**
+
+- [multiAgents.py](./multiagent/multiAgents.py) : Where all the multi-agent search agents reside.
+
+> Auto-grader results:
+```
+Provisional grades
+==================
+Question q1: 4/4
+Question q2: 5/5
+Question q3: 5/5
+Question q4: 5/5
+Question q5: 6/6
+------------------
+Total: 25/25
+```

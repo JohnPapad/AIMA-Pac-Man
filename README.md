@@ -1,6 +1,6 @@
 # AIMA-Pac-Man
 
-The *Pac-Man* project was originally developed for **UC Berkeley's** ***Introductory Artificial Intelligence*** course, ***[CS 188](http://ai.berkeley.edu./project_overview.html)***. They apply an array of AI techniques to playing Pac-Man. 
+The *Pac-Man* project was originally developed for **UC Berkeley's** ***"Introduction to Artificial Intelligence"*** course, ***[CS 188](http://ai.berkeley.edu./project_overview.html)***. They apply an array of AI techniques to playing Pac-Man. 
 
 This particular implementation of the aforementioned project was developed for the class of ***"Artificial Intelligence"***, in the Informatics Department, and was awarded with the maximum possible score by the auto-grader script *(50/50)*.
 

@@ -19,7 +19,7 @@ The whole project was implemented with *python2*.
 
 In this part, the *Pac-Man* agent finds paths through his maze world, both to reach a particular location and to collect food efficiently. General search algorithms were built and applied to *Pac-Man* scenarios.
 
-A makefile is provided. You can use the command ```$ make ``` for auto-grading and ```$ make clean``` to delete all generated *.pyc* files.
+A makefile is provided. You can use the command ```$ make``` for auto-grading and ```$ make clean``` to delete all generated *.pyc* files.
 
 You can also check the full list of available commands in the [commands.txt](./search/commands.txt) file.
 
@@ -55,7 +55,7 @@ Along the way, both *minimax* and *expectimax* search were implemented.
 
 Efficient evaluation functions were also developed.
 
-A makefile is provided. You can use the command ```$ make ``` for auto-grading and ```$ make clean``` to delete all generated *.pyc* files.
+A makefile is provided. You can use the command ```$ make``` for auto-grading and ```$ make clean``` to delete all generated *.pyc* files.
 
 **Edited files:**
 
